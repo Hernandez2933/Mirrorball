@@ -11,7 +11,7 @@
 
   <link rel="stylesheet" href="style.css">
 
-  <title>will u be my valentine?</title>
+  <title>Quieres ser mi san valentin?</title>
 
 </head>
 
@@ -25,7 +25,7 @@
 
     <img id="can1" src="https://picna.000webhostapp.com/hello.png">
 
-    <p id="can">will u be my valentine?</p>
+    <p id="can">Quieres ser mi san valentín?</p>
 
     <button id="yes">Yes</button>
 
